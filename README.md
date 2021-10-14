@@ -17,7 +17,7 @@ Simply **double-click** each `.csv`-file or choose **Open with Excel** and check
 
 > For this to work we depend on `git` to encode the text-files correctly on checkout, using the configuration in `.gitattributes`.
 
-The example-files were encoding using Visual Studio Code's **change file encoding**-feature.
+The example-files were encoded using Visual Studio Code's **change file encoding**-feature.
 
 - CodePage 1252 (`windows1252` in VSCode, `windows-1252` in git)
 
