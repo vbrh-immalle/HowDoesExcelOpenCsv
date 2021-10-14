@@ -1,0 +1,2 @@
+*.csv           text
+*cp1252*.csv    text working-tree-encoding=windows-1252
