@@ -38,9 +38,9 @@ You should see this:
 
 | character | cp1225-encoding | UTF-8 encoding |
 |-----------|-----------------|----------------|
-|     ë     |       0xEB      |    0xC3 0xAB   |
-|     ç     |       0xE7      |    0xC3 0xA7   |
-|     é     |       0xE9      |    0xC3 0xA9   |
+|    `ë`    |      `0xEB`     |   `0xC3 0xAB`  |
+|    `ç`    |      `0xE7`     |   `0xC3 0xA7`  |
+|    `é`    |      `0xE9`     |   `0xC3 0xA9`  |
 
 ## Reference
 
