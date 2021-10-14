@@ -2,12 +2,12 @@
 
 ## The problem
 
-As of this moment (at least on in my current Windows 10-configuration) it seems Excel only parses `.csv`-files correctly if the file is 
+As of this moment (at least on my current Windows 10-configuration) it seems Excel only parses `.csv`-files correctly if the file is 
 
 - in `cp1252`-encoding
 - using semicolons (`;`) as separator
 
-Of course it is always possible to *import data* from inside Excel, as you should probably always do.
+Of course it is possible to **import data** from **inside** Excel, as you should probably always do.
 
 ## Examples
 
